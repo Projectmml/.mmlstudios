@@ -121,9 +121,6 @@
         <h2>Contact</h2>
         <p>Reach out to us for collaborations, inquiries, or any other simplebeats654@gmail.com.</p>
    
-        <load>
-            <share file= all acusses>
-    </nav>
 
      <footer>
         &copy; 2023 MML Studios. All rights reserved.
